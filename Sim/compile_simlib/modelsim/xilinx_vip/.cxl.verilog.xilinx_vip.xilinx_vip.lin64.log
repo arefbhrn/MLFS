@@ -1,0 +1,128 @@
+Model Technology ModelSim - Intel FPGA Edition vmap 2020.1 Lib Mapping Utility 2020.02 Feb 28 2020
+vmap xilinx_vip /home/arefbhrn/University/Vivado/iscas89/iscas89.cache/compile_simlib/modelsim/xilinx_vip 
+Modifying modelsim.ini
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+Start time: 01:00:17 on Jul 20,2020
+vlog -sv "+incdir+/opt/Xilinx/Vivado/2019.2/data/xilinx_vip/include" -work xilinx_vip -f /home/arefbhrn/University/Vivado/iscas89/iscas89.cache/compile_simlib/modelsim/xilinx_vip/.cxl.systemverilog.xilinx_vip.xilinx_vip.lin64.cmf 
+-- Compiling interface axi4stream_vip_axi4streampc
+** Warning: /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi4stream_vip_axi4streampc.sv(433): (vlog-2186) SystemVerilog testbench feature
+(randomization, coverage or assertion) detected in the design.
+These features are only supported in Questasim.
+** Warning: /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi4stream_vip_axi4streampc.sv(433): (vlog-2186) SystemVerilog testbench feature
+(randomization, coverage or assertion) detected in the design.
+These features are only supported in Questasim.
+** Warning: /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi4stream_vip_axi4streampc.sv(439): (vlog-2186) SystemVerilog testbench feature
+(randomization, coverage or assertion) detected in the design.
+These features are only supported in Questasim.
+-- Compiling interface axi_vip_axi4pc
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1145): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1166): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1187): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1195): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1226): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1254): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1306): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1339): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1354): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1367): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1380): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1393): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1406): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1419): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1432): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1445): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1458): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1471): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1484): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1703): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1714): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1725): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1736): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1747): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1758): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1769): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1780): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1791): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1802): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1813): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1999): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(2014): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(2027): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(2040): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(2085): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(2096): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(2107): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(2224): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(2322): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(2478): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(2630): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(2721): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(2862): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(2888): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(2933): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(2955): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1145): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1166): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1187): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1195): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1226): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1254): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1306): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1339): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1354): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1367): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1380): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1393): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1406): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1419): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1432): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1445): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1458): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1471): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1484): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1703): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1714): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1725): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1736): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1747): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1758): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1769): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1780): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1791): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1802): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1813): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(1999): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(2014): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(2027): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(2040): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(2085): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(2096): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(2107): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(2224): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(2322): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(2478): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(2630): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(2721): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(2862): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(2888): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(2933): No trigger event inferred in disable expression.
+** Warning: (vlog-13361) /opt/Xilinx/Vivado/2019.2/data/xilinx_vip/hdl/axi_vip_axi4pc.sv(2955): No trigger event inferred in disable expression.
+-- Compiling package xil_common_vip_pkg
+-- Compiling package axi4stream_vip_pkg
+-- Importing package xil_common_vip_pkg
+-- Compiling package axi_vip_pkg
+-- Compiling package axi4stream_vip_if_sv_unit
+-- Importing package axi4stream_vip_pkg
+-- Importing package xil_common_vip_pkg
+-- Compiling interface axi4stream_vip_if
+-- Compiling package axi_vip_if_sv_unit
+-- Importing package axi_vip_pkg
+-- Importing package xil_common_vip_pkg
+-- Compiling interface axi_vip_if
+-- Compiling interface clk_vip_if
+-- Compiling interface rst_vip_if
+
+Top level modules:
+	--none--
+End time: 01:00:18 on Jul 20,2020, Elapsed time: 0:00:01
+Errors: 0, Warnings: 95

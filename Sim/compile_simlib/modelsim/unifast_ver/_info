@@ -1,0 +1,107 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/arefbhrn
+vDSP48E1
+!s110 1595190529
+!i10b 1
+!s100 ^592Gb;kcE90D62iY3Fh]2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Idoc5>0BA@]F^GZ[XXf[;h1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1571945292
+8/opt/Xilinx/Vivado/2019.2/data/verilog/src/unifast/DSP48E1.v
+F/opt/Xilinx/Vivado/2019.2/data/verilog/src/unifast/DSP48E1.v
+!i122 0
+L0 24 1339
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1595190529.000000
+!s107 /opt/Xilinx/Vivado/2019.2/data/verilog/src/unifast/MMCME2_ADV.v|/opt/Xilinx/Vivado/2019.2/data/verilog/src/unifast/GTXE2_CHANNEL.v|/opt/Xilinx/Vivado/2019.2/data/verilog/src/unifast/PLLE2_ADV.v|/opt/Xilinx/Vivado/2019.2/data/verilog/src/unifast/DSP48E1.v|
+Z6 !s90 -source|-work|unifast_ver|-f|/home/arefbhrn/University/Vivado/iscas89/iscas89.cache/compile_simlib/modelsim/unifast_ver/.cxl.verilog.unifast.unifast_ver.lin64.cmf|
+!i113 1
+Z7 o-source -work unifast_ver
+Z8 tCvgOpt 0
+n@d@s@p48@e1
+vGTXE2_CHANNEL
+Z9 !s110 1595190530
+!i10b 1
+!s100 LbZh795I4f;_EZI7V<[Jh0
+R1
+I?Gh61H9R224Dd]@jMgbKj2
+R2
+R0
+R3
+8/opt/Xilinx/Vivado/2019.2/data/verilog/src/unifast/GTXE2_CHANNEL.v
+F/opt/Xilinx/Vivado/2019.2/data/verilog/src/unifast/GTXE2_CHANNEL.v
+!i122 0
+L0 32 3444
+R4
+r1
+!s85 0
+31
+R5
+Z10 !s107 /opt/Xilinx/Vivado/2019.2/data/verilog/src/unifast/MMCME2_ADV.v|/opt/Xilinx/Vivado/2019.2/data/verilog/src/unifast/GTXE2_CHANNEL.v|/opt/Xilinx/Vivado/2019.2/data/verilog/src/unifast/PLLE2_ADV.v|/opt/Xilinx/Vivado/2019.2/data/verilog/src/unifast/DSP48E1.v|
+R6
+!i113 1
+R7
+R8
+n@g@t@x@e2_@c@h@a@n@n@e@l
+vMMCME2_ADV
+R9
+!i10b 1
+!s100 dIE_j<<@fkTn0iH6CO4BM1
+R1
+IifOgkBhEQNfS_fZl@FB`>1
+R2
+R0
+R3
+8/opt/Xilinx/Vivado/2019.2/data/verilog/src/unifast/MMCME2_ADV.v
+F/opt/Xilinx/Vivado/2019.2/data/verilog/src/unifast/MMCME2_ADV.v
+!i122 0
+L0 26 1521
+R4
+r1
+!s85 0
+31
+R5
+R10
+R6
+!i113 1
+R7
+R8
+n@m@m@c@m@e2_@a@d@v
+vPLLE2_ADV
+R9
+!i10b 1
+!s100 >CBM5?8VPdQgk]M:nledP1
+R1
+INUe?^V@97zeSk3aGml@fk2
+R2
+R0
+R3
+8/opt/Xilinx/Vivado/2019.2/data/verilog/src/unifast/PLLE2_ADV.v
+F/opt/Xilinx/Vivado/2019.2/data/verilog/src/unifast/PLLE2_ADV.v
+!i122 0
+L0 23 1159
+R4
+r1
+!s85 0
+31
+R5
+R10
+R6
+!i113 1
+R7
+R8
+n@p@l@l@e2_@a@d@v

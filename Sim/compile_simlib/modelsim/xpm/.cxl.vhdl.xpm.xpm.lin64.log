@@ -1,0 +1,12 @@
+Model Technology ModelSim - Intel FPGA Edition vmap 2020.1 Lib Mapping Utility 2020.02 Feb 28 2020
+vmap xpm /home/arefbhrn/University/Vivado/iscas89/iscas89.cache/compile_simlib/modelsim/xpm 
+Modifying modelsim.ini
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+Start time: 01:00:16 on Jul 20,2020
+vcom -work xpm -f /home/arefbhrn/University/Vivado/iscas89/iscas89.cache/compile_simlib/modelsim/xpm/.cxl.vhdl.xpm.xpm.lin64.cmf 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling package VCOMPONENTS
+End time: 01:00:16 on Jul 20,2020, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0

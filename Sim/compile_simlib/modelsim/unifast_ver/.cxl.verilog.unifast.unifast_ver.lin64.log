@@ -1,0 +1,18 @@
+Model Technology ModelSim - Intel FPGA Edition vmap 2020.1 Lib Mapping Utility 2020.02 Feb 28 2020
+vmap unifast_ver /home/arefbhrn/University/Vivado/iscas89/iscas89.cache/compile_simlib/modelsim/unifast_ver 
+Modifying modelsim.ini
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+Start time: 00:58:49 on Jul 20,2020
+vlog -source -work unifast_ver -f /home/arefbhrn/University/Vivado/iscas89/iscas89.cache/compile_simlib/modelsim/unifast_ver/.cxl.verilog.unifast.unifast_ver.lin64.cmf 
+-- Compiling module DSP48E1
+-- Compiling module PLLE2_ADV
+-- Compiling module GTXE2_CHANNEL
+-- Compiling module MMCME2_ADV
+
+Top level modules:
+	DSP48E1
+	PLLE2_ADV
+	GTXE2_CHANNEL
+	MMCME2_ADV
+End time: 00:58:50 on Jul 20,2020, Elapsed time: 0:00:01
+Errors: 0, Warnings: 0

@@ -1,0 +1,34 @@
+Model Technology ModelSim - Intel FPGA Edition vmap 2020.1 Lib Mapping Utility 2020.02 Feb 28 2020
+vmap unimacro_ver /home/arefbhrn/University/Vivado/iscas89/iscas89.cache/compile_simlib/modelsim/unimacro_ver 
+Modifying modelsim.ini
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+Start time: 00:58:49 on Jul 20,2020
+vlog -source -work unimacro_ver -f /home/arefbhrn/University/Vivado/iscas89/iscas89.cache/compile_simlib/modelsim/unimacro_ver/.cxl.verilog.unimacro.unimacro_ver.lin64.cmf 
+-- Compiling module FIFO_SYNC_MACRO
+-- Compiling module COUNTER_LOAD_MACRO
+-- Compiling module COUNTER_TC_MACRO
+-- Compiling module BRAM_SINGLE_MACRO
+-- Compiling module EQ_COMPARE_MACRO
+-- Compiling module MULT_MACRO
+-- Compiling module ADDMACC_MACRO
+-- Compiling module FIFO_DUALCLOCK_MACRO
+-- Compiling module MACC_MACRO
+-- Compiling module ADDSUB_MACRO
+-- Compiling module BRAM_TDP_MACRO
+-- Compiling module BRAM_SDP_MACRO
+
+Top level modules:
+	FIFO_SYNC_MACRO
+	COUNTER_LOAD_MACRO
+	COUNTER_TC_MACRO
+	BRAM_SINGLE_MACRO
+	EQ_COMPARE_MACRO
+	MULT_MACRO
+	ADDMACC_MACRO
+	FIFO_DUALCLOCK_MACRO
+	MACC_MACRO
+	ADDSUB_MACRO
+	BRAM_TDP_MACRO
+	BRAM_SDP_MACRO
+End time: 00:58:49 on Jul 20,2020, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0

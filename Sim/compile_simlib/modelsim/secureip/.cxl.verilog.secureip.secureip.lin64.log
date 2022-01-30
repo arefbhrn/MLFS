@@ -1,0 +1,34 @@
+Model Technology ModelSim - Intel FPGA Edition vmap 2020.1 Lib Mapping Utility 2020.02 Feb 28 2020
+vmap secureip /home/arefbhrn/University/Vivado/iscas89/iscas89.cache/compile_simlib/modelsim/secureip 
+Modifying modelsim.ini
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+Start time: 00:58:19 on Jul 20,2020
+vlog -source -work secureip -f /home/arefbhrn/University/Vivado/iscas89/iscas89.cache/compile_simlib/modelsim/secureip/.cxl.verilog.secureip.secureip.lin64.cmf 
+-- Compiling module GTXE2_CHANNEL_FAST_WRAP
+-- Compiling module GTXE2_CHANNEL_WRAP
+-- Compiling module GTXE2_COMMON_WRAP
+-- Compiling module PCIE_2_1_WRAP
+-- Compiling module ISERDESE2_WRAP
+-- Compiling module B_ISERDESE2
+-- Compiling module OSERDESE2_WRAP
+-- Compiling module B_OSERDESE2
+-- Compiling module SIP_IN_FIFO
+-- Compiling module SIP_OUT_FIFO
+-- Compiling module SIP_PHY_CONTROL
+-- Compiling module SIP_PHASER_IN
+-- Compiling module SIP_PHASER_OUT
+
+Top level modules:
+	GTXE2_CHANNEL_FAST_WRAP
+	GTXE2_CHANNEL_WRAP
+	GTXE2_COMMON_WRAP
+	PCIE_2_1_WRAP
+	ISERDESE2_WRAP
+	OSERDESE2_WRAP
+	SIP_IN_FIFO
+	SIP_OUT_FIFO
+	SIP_PHY_CONTROL
+	SIP_PHASER_IN
+	SIP_PHASER_OUT
+End time: 00:58:32 on Jul 20,2020, Elapsed time: 0:00:13
+Errors: 0, Warnings: 0

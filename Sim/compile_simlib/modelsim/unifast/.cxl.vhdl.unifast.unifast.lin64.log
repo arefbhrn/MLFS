@@ -1,0 +1,24 @@
+Model Technology ModelSim - Intel FPGA Edition vmap 2020.1 Lib Mapping Utility 2020.02 Feb 28 2020
+vmap unifast /home/arefbhrn/University/Vivado/iscas89/iscas89.cache/compile_simlib/modelsim/unifast 
+Modifying modelsim.ini
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+Start time: 00:58:40 on Jul 20,2020
+vcom -source -93 -work unifast -f /home/arefbhrn/University/Vivado/iscas89/iscas89.cache/compile_simlib/modelsim/unifast/.cxl.vhdl.unifast.unifast.lin64.cmf 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Loading package VITAL_Timing
+-- Loading package VITAL_Primitives
+-- Loading package VPKG
+-- Compiling entity DSP48E1
+-- Compiling architecture DSP48E1_V of DSP48E1
+-- Compiling entity MMCME2_ADV
+-- Compiling architecture MMCME2_ADV_V of MMCME2_ADV
+-- Compiling entity PLLE2_ADV
+-- Compiling architecture PLLE2_ADV_V of PLLE2_ADV
+-- Compiling entity GTXE2_CHANNEL
+-- Compiling architecture GTXE2_CHANNEL_FAST_V of GTXE2_CHANNEL
+End time: 00:58:41 on Jul 20,2020, Elapsed time: 0:00:01
+Errors: 0, Warnings: 0

@@ -1,0 +1,43 @@
+BUFGs      : 1
+/testbench_mnist_fcnn_fi/unit_under_test_inst/Counter_L3_1/I_clk_IBUF_BUFG_inst (BUFG)
+
+
+FDCEs      : 4
+/testbench_mnist_fcnn_fi/unit_under_test_inst/Counter_L3_1/\Counter_10/temp_value_reg[0]\ (FDCE)
+/testbench_mnist_fcnn_fi/unit_under_test_inst/Counter_L3_1/\Counter_10/temp_value_reg[1]\ (FDCE)
+/testbench_mnist_fcnn_fi/unit_under_test_inst/Counter_L3_1/\Counter_10/temp_value_reg[2]\ (FDCE)
+/testbench_mnist_fcnn_fi/unit_under_test_inst/Counter_L3_1/\Counter_10/temp_value_reg[3]\ (FDCE)
+
+
+IBUFs      : 4
+/testbench_mnist_fcnn_fi/unit_under_test_inst/Counter_L3_1/I_N_3_en_IBUF_inst (IBUF)
+/testbench_mnist_fcnn_fi/unit_under_test_inst/Counter_L3_1/I_clean_N_IBUF_inst (IBUF)
+/testbench_mnist_fcnn_fi/unit_under_test_inst/Counter_L3_1/I_rst_IBUF_inst (IBUF)
+/testbench_mnist_fcnn_fi/unit_under_test_inst/Counter_L3_1/I_clk_IBUF_inst (IBUF)
+
+
+LUT1s      : 1
+/testbench_mnist_fcnn_fi/unit_under_test_inst/Counter_L3_1/\Counter_10/temp_value[3]_i_3\ (LUT1)
+
+
+LUT2s      : 1
+/testbench_mnist_fcnn_fi/unit_under_test_inst/Counter_L3_1/\temp_value[3]_i_1\ (LUT2)
+
+
+LUT4s      : 1
+/testbench_mnist_fcnn_fi/unit_under_test_inst/Counter_L3_1/\Counter_10/temp_value[0]_i_1\ (LUT4)
+
+
+LUT5s      : 3
+/testbench_mnist_fcnn_fi/unit_under_test_inst/Counter_L3_1/\Counter_10/temp_value[1]_i_1\ (lut5)
+/testbench_mnist_fcnn_fi/unit_under_test_inst/Counter_L3_1/\Counter_10/temp_value[3]_i_2\ (LUT5)
+/testbench_mnist_fcnn_fi/unit_under_test_inst/Counter_L3_1/\Counter_10/temp_value[2]_i_1\ (LUT5)
+
+
+OBUFs      : 4
+/testbench_mnist_fcnn_fi/unit_under_test_inst/Counter_L3_1/\O_N_3_OBUF[3]_inst\ (OBUF)
+/testbench_mnist_fcnn_fi/unit_under_test_inst/Counter_L3_1/\O_N_3_OBUF[2]_inst\ (OBUF)
+/testbench_mnist_fcnn_fi/unit_under_test_inst/Counter_L3_1/\O_N_3_OBUF[1]_inst\ (OBUF)
+/testbench_mnist_fcnn_fi/unit_under_test_inst/Counter_L3_1/\O_N_3_OBUF[0]_inst\ (OBUF)
+
+
